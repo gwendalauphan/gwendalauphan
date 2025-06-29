@@ -1,73 +1,73 @@
-# 👋 Salut à tous !
+# 👋 Hi there!
+### 👉 [🇫🇷 Version française](README_fr.md)
+My name is **Gwendal**, I’m a developer from the suburbs of Paris.  
+I mainly focus on **DevOps**, **AI**, **web development**, and **big data**.  
+If I find the time, I’d also love to explore a bit of **electronics** and **embedded systems**.
 
-Je m'appelle **Gwendal**, je suis un développeur originaire de la banlieue de Paris.  
-Je me concentre principalement sur le **DevOps**, **IA**, **développement web** et **big data**.  
-Si j'ai le temps, j'aimerais bien aussi toucher un peu à l'**électronique** et l'**embarqué**.
-
-En dehors du code, j'adore la **nature**, la **bonne nourriture** (cuisinée maison ou resto 🍽️), la **musique** et le **sport** — histoire de se décrasser un peu quand un bug ne m'a pas bloqué devant l'ordi ! 😄
+Outside of coding, I really enjoy **nature**, **good food** (home-cooked or at a restaurant 🍽️), **music**, and **sports** — a great way to clear my head when a bug hasn’t glued me to the screen! 😄
 
 ## 🚀 Portfolio
 
-Voici mon portfolio de projets : [gwendalauphan.com](https://gwendalauphan.com/)  
-N'hésitez pas à y jeter un œil !
+Here’s my project portfolio: [gwendalauphan.com](https://gwendalauphan.com/)  
+Feel free to take a look!
 
 ---
 
-### 💼 Expériences
+### 💼 Experience
 
-- **DGFIP** : DevOps & Big Data  
-- **Valeo** : Systèmes embarqués  
-- **Société Générale** : DevOps, Airflow, Cloud interne  
+- **DGFIP**: DevOps & Big Data  
+- **Valeo**: Embedded systems  
+- **Société Générale**: DevOps, Airflow, internal cloud  
 
-**Poste actuel :** DevOps API Python chez **Société Générale** (client) — ESN : **Sight**
+**Current role:** DevOps API Python at **Société Générale** (client) — ESN: **Sight**
 
 ---
 
-### 🔭 Je travaille actuellement sur...
+### 🔭 I’m currently working on...
 
-- DevOps, Python, Kubernetes (et tout ce qui tourne autour du déploiement et de l'automatisation)
+- DevOps, Python, Kubernetes (and everything around deployment and automation)
 
-### 🌱 J'apprends en ce moment...
+### 🌱 I’m currently learning...
 
-- La certification Kubernetes
-- Le développement web & mes projets personnels
+- Kubernetes certification
+- Web development & my personal projects
 
-### 🤔 Je réfléchis à explorer...
+### 🤔 I’m thinking of exploring...
 
-- L'IA
+- AI
 - Rust
 - Go
-- M'améliorer sur les outils cloud, Terraform et l'administration Kubernetes
+- Getting better at cloud tools, Terraform, and Kubernetes administration
 
-### 💬 N'hésitez pas à me contacter
-Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (ou même ce que je découvre) !
-- LinkedIn : [https://www.linkedin.com/in/gwendal-auphan/](https://www.linkedin.com/in/gwendal-auphan/)
-- Email : gwendalauphan@gmail.com
+### 💬 Feel free to contact me
+Whether it’s for advice, feedback, or a hand on what I know (or what I’m learning)!
+- LinkedIn: [https://www.linkedin.com/in/gwendal-auphan/](https://www.linkedin.com/in/gwendal-auphan/)
+- Email: gwendalauphan@gmail.com
 
 ---
 
-## ❤️ Projets coup de cœur
+## ❤️ Favorite projects
 
-- **Le groupe Web** : portfolio, autres sites, mécanisme de déploiement  
-  *(tags : react, js, gitlab CI, ansible, swag, docker, python, devops)*  
-  [Accéder](https://gitlab.com/web6464113/)
+- **Web group**: portfolio, other websites, deployment mechanism  
+  *(tags: react, js, gitlab CI, ansible, swag, docker, python, devops)*  
+  [Check it out](https://gitlab.com/web6464113/)
 
 - **Robot Trading**  
-  (lien et description bientôt disponible 🤖)
+  (link and description coming soon 🤖)
 
 - **Compressive sensing**  
-  [Accéder](https://github.com/gwendalauphan/compressive-sensing)
+  [Check it out](https://github.com/gwendalauphan/compressive-sensing)
 
-- **La plateforme de jeux**  
-  [Accéder](https://github.com/gwendalauphan/Plateforme_de_jeu_Python)
+- **Gaming platform**  
+  [Check it out](https://github.com/gwendalauphan/Plateforme_de_jeu_Python)
 
-## 📂 Mes projets par année
+## 📂 My projects by year
 
 ### 2025
 **Tips & Tutorials**
 - [how_to](https://github.com/gwendalauphan/how_to)
 
-**Dev Web & Hosting**
+**Web Dev & Hosting**
 - [reverse_proxy_web_apps](https://gitlab.com/web6464113/reverse_proxy_web_apps)
 - [association_sight](https://gitlab.com/web6464113/association_sight)
 - [variables_managment](https://gitlab.com/web6464113/variables_managment)
@@ -82,7 +82,7 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 ---
 
 ### 2024
-- Robot Trading (à venir)
+- Robot Trading (coming soon)
 
 ---
 
@@ -115,7 +115,7 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 ---
 
 ### 2020
-**Dev Web**
+**Web Dev**
 - [Site_assioatif_Dev_web](https://github.com/gwendalauphan/Site_assioatif_Dev_web)
 
 ---
@@ -125,8 +125,6 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 - [Plateforme_de_jeu_Python](https://github.com/gwendalauphan/Plateforme_de_jeu_Python)
 
 ---
-
-
 
 <!--
 **gwendalauphan/gwendalauphan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -142,3 +140,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
