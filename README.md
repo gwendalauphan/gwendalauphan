@@ -45,11 +45,10 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 - Email: gwendalauphan@gmail.com
 
 ---
-
-## ❤️ Favorite projects
-
 ⚠️ **Note**: The projects marked with 🔒 are **private** and require granted access.  
 Please contact me 📩 if you’d like to request access to the source code or more information.
+
+## ❤️ Favorite projects
 
 - **Web group**: portfolio, other websites, deployment mechanism  
   *(tags: react, js, gitlab CI, ansible, swag, docker, python, devops)*  
