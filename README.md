@@ -45,8 +45,9 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 - Email: gwendalauphan@gmail.com
 
 ---
-⚠️ **Note**: The projects marked with 🔒 are **private** and require granted access.  
-Please contact me 📩 if you’d like to request access to the source code or more information.
+> [!IMPORTANT]
+> The projects marked with 🔒 are **private** and require granted access.  
+> Please contact me 📩 if you’d like to request access to the source code or more information.
 
 ## ❤️ Favorite projects
 
