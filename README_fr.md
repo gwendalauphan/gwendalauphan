@@ -47,7 +47,7 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 ---
 > [!IMPORTANT]
 > Les projets marqués avec 🔒 sont **privés** et nécessitent un accès autorisé.  
-Veuillez me contacter 📩 si vous souhaitez demander l'accès au code source ou obtenir plus d'informations.
+> Veuillez me contacter 📩 si vous souhaitez demander l'accès au code source ou obtenir plus d'informations.
 
 ## ❤️ Projets coup de cœur
 
