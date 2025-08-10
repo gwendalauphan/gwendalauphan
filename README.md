@@ -48,12 +48,15 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 
 ## ❤️ Favorite projects
 
+⚠️ **Note**: The projects marked with 🔒 are **private** and require granted access.  
+Please contact me 📩 if you’d like to request access to the source code or more information.
+
 - **Web group**: portfolio, other websites, deployment mechanism  
   *(tags: react, js, gitlab CI, ansible, swag, docker, python, devops)*  
-  [Check it out](https://gitlab.com/web6464113/)
+  [Check it out](https://gitlab.com/web6464113/) 🔒📩
 
 - **Robot Trading**  
-  (link and description coming soon 🤖)
+  (link and description coming soon 🤖) 🔒📩
 
 - **Compressive sensing**  
   [Check it out](https://github.com/gwendalauphan/compressive-sensing)
@@ -68,9 +71,9 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 - [how_to](https://github.com/gwendalauphan/how_to)
 
 **Web Dev & Hosting**
-- [reverse_proxy_web_apps](https://gitlab.com/web6464113/reverse_proxy_web_apps)
-- [association_sight](https://gitlab.com/web6464113/association_sight)
-- [variables_managment](https://gitlab.com/web6464113/variables_managment)
+- [reverse_proxy_web_apps](https://gitlab.com/web6464113/reverse_proxy_web_apps) 🔒📩
+- [association_sight](https://gitlab.com/web6464113/association_sight) 🔒📩
+- [variables_managment](https://gitlab.com/web6464113/variables_managment) 🔒📩
 
 **Big Data**
 - [big-data-playground](https://github.com/gwendalauphan/big-data-playground)
@@ -83,6 +86,9 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 
 ### 2024
 - Robot Trading (coming soon)
+
+**Dev Web**
+- [Portfolio_v1](https://github.com/gwendalauphan/Portfolio_v1)
 
 ---
 
