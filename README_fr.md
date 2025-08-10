@@ -45,15 +45,18 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 - Email : gwendalauphan@gmail.com
 
 ---
+> [!IMPORTANT]
+> Les projets marqués avec 🔒 sont **privés** et nécessitent un accès autorisé.  
+Veuillez me contacter 📩 si vous souhaitez demander l'accès au code source ou obtenir plus d'informations.
 
 ## ❤️ Projets coup de cœur
 
 - **Le groupe Web** : portfolio, autres sites, mécanisme de déploiement  
   *(tags : react, js, gitlab CI, ansible, swag, docker, python, devops)*  
-  [Accéder](https://gitlab.com/web6464113/)
+  [Accéder](https://gitlab.com/web6464113/) 🔒📩
 
 - **Robot Trading**  
-  (lien et description bientôt disponible 🤖)
+  (lien et description bientôt disponible 🤖) 🔒📩
 
 - **Compressive sensing**  
   [Accéder](https://github.com/gwendalauphan/compressive-sensing)
@@ -68,9 +71,9 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 - [how_to](https://github.com/gwendalauphan/how_to)
 
 **Dev Web & Hosting**
-- [reverse_proxy_web_apps](https://gitlab.com/web6464113/reverse_proxy_web_apps)
-- [association_sight](https://gitlab.com/web6464113/association_sight)
-- [variables_managment](https://gitlab.com/web6464113/variables_managment)
+- [reverse_proxy_web_apps](https://gitlab.com/web6464113/reverse_proxy_web_apps) 🔒📩
+- [association_sight](https://gitlab.com/web6464113/association_sight) 🔒📩
+- [variables_managment](https://gitlab.com/web6464113/variables_managment) 🔒📩
 
 **Big Data**
 - [big-data-playground](https://github.com/gwendalauphan/big-data-playground)
@@ -82,7 +85,10 @@ Des conseils, un retour d'expérience ou un coup de main sur ce que je connais (
 ---
 
 ### 2024
-- Robot Trading (à venir)
+- Robot Trading (à venir) 🔒📩
+
+**Dev Web**
+- [Porforlio_v1](https://github.com/gwendalauphan/Portfolio_v1)
 
 ---
 
