@@ -94,7 +94,7 @@ Whether it’s for advice, feedback, or a hand on what I know (or what I’m lea
 
 ### 2023
 **Science**
-- [compressive-sensing](https://github.com/gwendalauphan/compressive-sensing)
+- [Sparse Coding & Signal](https://github.com/gwendalauphan/Sparse-Coding-and-Signal.git
 
 **Linux tools**
 - [arbo_script](https://github.com/gwendalauphan/arbo_script)
